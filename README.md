@@ -1,5 +1,5 @@
-# botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+# XnX BOT 🤖
+BOT WHATSAPP HP ARIA PUTRA PRATAMA
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -26,7 +26,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| st4rz BOT       |                Feature           |
+| XnX BOT       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
@@ -46,7 +46,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Donate                           |
 
 ## Special Thanks to
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`WhatsApp`](https://wa.me/+6289525340368)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
+* [`Saweria`](https://saweria.co/donate/ariaptra)
